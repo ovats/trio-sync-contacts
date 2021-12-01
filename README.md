@@ -15,7 +15,7 @@ Basically:
 - The application will synchronize contacts by triggering a GET request to /contacts/sync.
 - This endpoint should return the information of contacts synchronized.
 
-The project (code) has been uploaded to Github [here]().
+The project (code) has been uploaded to Github [here](https://github.com/ovats/trio-sync-contacts).
 
 The project has been deployed in Heroku in [https://trio-take-home-gm.herokuapp.com](https://trio-take-home-gm.herokuapp.com).
 
