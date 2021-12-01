@@ -2,13 +2,9 @@
 
 ## Background
 
-This document is about the home task defined in the following link:
+Create an application/service that:
 
-https://www.notion.so/trio/Back-End-Project-78fa9bd235be48fd82887f73055ae133
-
-Basically:
-
-- Describes an app to sync contacts between two services: MockAPI and Mailchimp
+- Sync contacts between two services: MockAPI and Mailchimp
 - Every contact contains the following information: first name, last name and email address.
 - The contacts in MockAPI must be synchronized with contacts in Mailchimp
 - The application must be deployed in Heroku or Netlify
